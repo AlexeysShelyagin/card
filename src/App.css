@@ -31,13 +31,17 @@
   margin: 20px;
 }
 
+.void{
+  height: 300px;
+}
+
 .demo-card-wide.mdl-card {
-  width: 512px;
+  width: 700px;
+  height: 400px;
 }
 .demo-card-wide > .mdl-card__title {
   color: #fff;
-  height: 176px;
-  background: url() center / cover;
+  height: 300px;
 }
 .demo-card-wide > .mdl-card__menu {
   color: #fff;
